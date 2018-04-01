@@ -1,4 +1,4 @@
-# HardworkingAnt
+![HardworkingAnt](https://github.com/trastejant/HardworkingAnt/blob/master/img/HardworkingAnt.png)
 
 Sketch para emplear un attiny como extensor de pines o ADC por interfaz I2C totalmente abstraido del Hardware conectado a sus GPIOS 
 
